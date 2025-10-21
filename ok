@@ -1,0 +1,56 @@
+[33mcommit ebd6e785fe68c6035f2875e0bb08ab73c6e749dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alexis Michelle Colliard <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Tue Oct 21 17:40:56 2025 -0300
+
+    Add files via upload
+
+[33mcommit b37f36e756eea002f6bf26667cbe4bd0f0c3e48a[m
+Merge: 1d38cd8 82699fd
+Author: Alexis Michelle Colliard <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Tue Oct 21 17:33:13 2025 -0300
+
+    Merge pull request #3 from colliardmichelle/new-branch-2
+    
+    More changes to the README
+
+[33mcommit 82699fd2ba7988581fbc48237fcc0739e3e9691a[m[33m ([m[1;31morigin/new-branch-2[m[33m, [m[1;32mnew-branch-2[m[33m)[m
+Author: First Last <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Tue Oct 21 17:30:25 2025 -0300
+
+    More changes to the README
+
+[33mcommit 1d38cd8dd832eae9199003548cc0fc1e0f121b63[m
+Merge: 772445d 512ce0a
+Author: Alexis Michelle Colliard <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Mon Oct 20 20:38:56 2025 -0300
+
+    Merge pull request #2 from colliardmichelle/revert-1-myfeaturebranch
+    
+    Revert "My first commit"
+
+[33mcommit 512ce0ac652a82f8cc492d0e535acd8893a0a838[m[33m ([m[1;31morigin/revert-1-myfeaturebranch[m[33m)[m
+Author: Alexis Michelle Colliard <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Mon Oct 20 20:35:00 2025 -0300
+
+    Revert "My first commit"
+
+[33mcommit 772445da742ed988a59e9148361e78d59ff662bb[m
+Merge: f91f7c6 acc264a
+Author: Alexis Michelle Colliard <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Mon Oct 20 20:32:18 2025 -0300
+
+    My first commit
+    
+    My first commit
+
+[33mcommit acc264ac42d901a6707d5f96e9f67c73f61c933c[m[33m ([m[1;32mmyfeaturebranch[m[33m)[m
+Author: First Last <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Mon Oct 20 20:28:56 2025 -0300
+
+    My first commit
+
+[33mcommit f91f7c62cafc961bbde36949e8d1273da435c75b[m
+Author: Alexis Michelle Colliard <130415713+colliardmichelle@users.noreply.github.com>
+Date:   Mon Oct 20 20:12:55 2025 -0300
+
+    Initial commit
